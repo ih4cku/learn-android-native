@@ -19,7 +19,7 @@ android {
     }
     sourceSets {
         main {
-            jniLibs.srcDir "/home/paile/sandbox/android/cvcode/libs"
+            jniLibs.srcDir "../../native/libs"
         }
     }
 }
