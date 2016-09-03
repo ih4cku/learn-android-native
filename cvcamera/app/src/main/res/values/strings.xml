@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cvcamera</string>
+    <string name="btn_capture">capture</string>
+    <string name="image_view_hint">captured image</string>
+</resources>
